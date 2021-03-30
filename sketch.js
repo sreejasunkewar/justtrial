@@ -25,6 +25,7 @@ function setup(){
     World.add(world,ball);
 
     console.log(ground);
+    console.log("hi sreeja");
 }
 
 function draw(){
